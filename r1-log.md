@@ -39,3 +39,6 @@ Restless kiddos so little time to code via laptop. Instead via a daily emailed p
 
 ### R1D11
 Within the miniproject build, I coded a create your own adventure game.
+
+### R1D12
+Practiced more of string and function basics via coding a palidrome checker

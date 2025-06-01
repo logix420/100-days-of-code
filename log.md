@@ -58,3 +58,9 @@
 
 **Thoughts:** Using the if/elif/else statements, several choses coded could lead the user down various different paths in the game, therefore really allowing their own story to be created.
 
+### Day 12: May 31, 2025 100 Days here we go!
+**Today's Progress**: Coded a palidrome checker via the daily email lessons.
+
+**Thoughts:** Took the time to practice function and string methods more by researching Python documentation of Palidromes. Using Copilot, I asked for the steps to writing the boolen false statement after writing my boolen true statement.  Further sought the support of Copilot as the answer for one string was coming back false yet should be true.  I was guided to find out how to add .join to my function therefore to normalize and filter non-alphanumeric characters.
+
+I will add to these self-taught coding files I am creating by challenging myself to find other ways to also solve the coding challenge.
