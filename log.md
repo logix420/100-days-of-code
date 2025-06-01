@@ -13,7 +13,48 @@
 **Thoughts:** As it proceeds with the various objects the scripting is including, the project dives right in as I am using the code to interact with the computer as a programmer.
 
 ### Day 3: May 22, 2025 100 Days here we go!
-**Today's Progress**: Although the lines written seem to flow, sentex is correct and no errors are present, when running the code the paths of the directories are not listed as I prompted.
+**Today's Progress**: Although the lines written seem to flow, syntax is correct and no errors are present, when running the code the paths of the directories are not listed as I prompted.
 
 **Thoughts:** After correcting typos, tried to rewrite the script and looking over each line to ensure it flows. No errors are given, the lines of functions written are followed by loops which seem logical. I have tried some researching, for now it is best to step away and come back again to retry this step.
+
+### Day 4: May 23, 2025 100 Days here we go!
+**Today's Progress**: No further progress made
+
+**Thoughts:** Reviewed the full code with nothing seeming to need correction. Tried to tinker with local file but that too produced no change.
+
+### Day 5: May 24, 2025 100 Days here we go!
+**Today's Progress**: Deleted previous clone and restarted project.
+
+**Thoughts:** On this go-around, I will create a new file to code rather than attempting to use the cloned file.
+
+### Day 6: May 25, 2025 100 Days here we go!
+**Today's Progress**: Created a new file in the project. 
+
+**Thoughts:** Several attempts with the cloned file results in the same error, yet the error does not prompted when coded from my new file. Not to stay with the same project having no results, I will pause revisiting it later in the next 94 days.
+
+### Day 7: May 26, 2025 100 Days here we go!
+**Today's Progress**: Began a 5 project, miniproject. 
+
+**Thoughts:** After reading FreeCodeCamp's Learning to Code: When It Gets Dark article. Which made me to think that in focusing on the long term goal of teaching myself to code, I sought another means to ensure that coding at minimum 30 minutes a day at least. The quiz game coded was finished in 15 minutes and I used tools such as .lower() string method to convert input and also I used assignment operator += to help keep track of the score as well as to give the score total, I used the str((score/4) +  100)+ "%.")
+
+### Day 8: May 27, 2025 100 Days here we go!
+**Today's Progress**: Continuing the miniprojects from yesterday. Keeping up with that momentum of improving my coding skills, I next made a guess that number game.
+
+**Thoughts:** In the coding of this project, I used the import module to generate random numbers. The using isdigit() string method to ensure that input was on a number and then gave a range of numbers for which the user to guess. The code prints a suggestion to figure out the random number in a few attempts as possible. 
+
+### Day 9: May 28, 2025 100 Days here we go!
+**Today's Progress**: Another one of the miniprojects. Daily improvements to my coding skills. This project coded a game of rock, paper, scissors between the user and computer.
+
+**Thoughts:** Also using the import module to generate random numbers, the project helped me to create code using a list, where rock = 0, paper = 1, scissors = 2. Then storing this list into a variable, the rules for which the user won was entered as if statements and elif, then an else statement to define the alternative making the computer the winner. Similar to scoring using the previous assignment operator +=, this game used it as well and when the game was quit by the user, the number of times the winner (whether it was the computer or user) was printed.
+***Extra:*** The code was written correctly yet the input other than q for quit was the only accepted response. I used copilot and asked what was wrong, to which it even responded the code and syntax was correct, but did further support the issue. I was given the insight that there maybe trailing or leading white space. The .strip() string was recommended and also a debugging line. -print("debug: you entered'{user_input}' ")-   This helps you see exactly what the program received from the user, which is useful for troubleshooting input issues.  
+
+### Day 10: May 29, 2025 100 Days here we go!
+**Today's Progress**: Today was not able to whip out my laptop to code, instead I used my mobile IDE and daily emailed quiz lines of code.
+
+**Thoughts:** Instead of a few minutes to create a complete app, the time spent was practing the reverse string methods.
+
+### Day 11: May 30, 2025 100 Days here we go!
+**Today's Progress**: Continuing with the miniproject, I coded a choose your own adventure story game.
+
+**Thoughts:** Using the if/elif/else statements, several choses coded could lead the user down various different paths in the game, therefore really allowing their own story to be created.
 

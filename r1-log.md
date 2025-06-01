@@ -14,4 +14,28 @@ Using OS paths, the sequence to the scripting requires to seek the files with ga
 Troubleshooting paths of directories and scripting intended prompts, spent this day seeking errors in lines of code and/or steps not in place to execute desired code.
 
 ### R1D4
-Same as yesterday, no success with directory path
+Same as yesterday, no success with directory path.
+
+### R1D5
+I've deleted the file and will retry the project from scratch.
+
+### R1D6
+Began to code from scratch, however the commands are giving errors to the code cloned and the new file response is nothing. After trying to next attempt an Anaconda environment code with Python, I kept receiving the same error which stated path not found. Used copilot to help. Still same error prompt.
+
+### R1D6
+Reading through VS Code documentation, tried to further troubleshoot errors and then I downloaded Anaconda. Using get Copilot, tried to correct path issues to use Anaconda with VS Code.
+
+### R1D7
+New project began and I created code for a quiz game. 
+
+### R1D8
+Miniproject coded a number guessing game
+
+### R1D9
+Miniproject rock, paper, scissors coded
+
+### R1D10
+Restless kiddos so little time to code via laptop. Instead via a daily emailed practice code.
+
+### R1D11
+Within the miniproject build, I coded a create your own adventure game.
