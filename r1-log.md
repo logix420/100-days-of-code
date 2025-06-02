@@ -42,3 +42,6 @@ Within the miniproject build, I coded a create your own adventure game.
 
 ### R1D12
 Practiced more of string and function basics via coding a palidrome checker
+
+### R1D13
+Prompted Copilot to guide me for tools to succeed in my self-taught journey

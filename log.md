@@ -64,3 +64,8 @@
 **Thoughts:** Took the time to practice function and string methods more by researching Python documentation of Palidromes. Using Copilot, I asked for the steps to writing the boolen false statement after writing my boolen true statement.  Further sought the support of Copilot as the answer for one string was coming back false yet should be true.  I was guided to find out how to add .join to my function therefore to normalize and filter non-alphanumeric characters.
 
 I will add to these self-taught coding files I am creating by challenging myself to find other ways to also solve the coding challenge.
+
+### Day 13: June 1, 2025 100 Days here we go!
+**Today's Progress**: Using the tools available, I have prompted Copilot. With it's guidance, I started a notion journal to better equip myself for success to organize notes and created Firefox bookmarks that are designed for as a self-taught developer.
+
+**Thoughts:** Similar to this goal via 100 days of code, I need to document the journey and automate bookmarks to open tools. Additionally spinning up VM's to be my playground
