@@ -69,3 +69,12 @@ I will add to these self-taught coding files I am creating by challenging myself
 **Today's Progress**: Using the tools available, I have prompted Copilot. With it's guidance, I started a notion journal to better equip myself for success to organize notes and created Firefox bookmarks that are designed for as a self-taught developer.
 
 **Thoughts:** Similar to this goal via 100 days of code, I need to document the journey and automate bookmarks to open tools. Additionally spinning up VM's to be my playground
+
+### Day 14: June 2, 2025 100 Days here we go!
+**Today's Progress**: Practice coding; problem emailed on Vaccuum Cleaner Route  Given a string representing the sequence of moves a robot vacuum makes, return whether or not it will return to its original position
+
+**Thoughts:** Break down the problem into steps or subproblems. Return to further brain-storm
+
+### Day 15: June 3, 2025 100 Days here we go!
+**Today's Progress**: Spun up Unbuntum VM
+**Thoughts:** Goal: Practice environment

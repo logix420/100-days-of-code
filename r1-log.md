@@ -45,3 +45,9 @@ Practiced more of string and function basics via coding a palidrome checker
 
 ### R1D13
 Prompted Copilot to guide me for tools to succeed in my self-taught journey
+
+### R1De14
+Practice coding; problem emailed on Vaccuum Cleaner Route
+
+### R1D15
+Spun up Unbuntum VM
