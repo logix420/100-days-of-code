@@ -78,3 +78,12 @@ I will add to these self-taught coding files I am creating by challenging myself
 ### Day 15: June 3, 2025 100 Days here we go!
 **Today's Progress**: Spun up Unbuntum VM
 **Thoughts:** Goal: Practice environment
+
+### Day 16: June 4, 2025 100 Days here we go!
+**Today's Progress**: Solved online coding challenges
+**Thoughts:** Using brillant.org, I practiced breaking down problems into subproblems and identifying the problem as a step-by-step breakdown.
+
+### Day 17 June 5, 2025 100 Days here we go!
+**Today's Progress**: 
+**Thoughts:** Goal: 
+

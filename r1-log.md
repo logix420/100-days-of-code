@@ -51,3 +51,8 @@ Practice coding; problem emailed on Vaccuum Cleaner Route
 
 ### R1D15
 Spun up Unbuntum VM
+
+### R1D16
+Problem solving skills practice
+
+### R1D17
