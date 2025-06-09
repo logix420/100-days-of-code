@@ -56,3 +56,7 @@ Spun up Unbuntum VM
 Problem solving skills practice
 
 ### R1D17
+String problem solving, breakdown to solution
+
+## R1D18
+Lesson in Python basics

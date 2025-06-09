@@ -84,6 +84,19 @@ I will add to these self-taught coding files I am creating by challenging myself
 **Thoughts:** Using brillant.org, I practiced breaking down problems into subproblems and identifying the problem as a step-by-step breakdown.
 
 ### Day 17 June 5, 2025 100 Days here we go!
-**Today's Progress**: 
-**Thoughts:** Goal: 
+**Today's Progress**: Fininshed Ubuntu VM setup
+**Thoughts:** System up and running; ready to use tools for diving in and develop projects
+
+### Day 18 June 6, 2025 100 Days here we go!
+**Today's Progress**: Solved online coding challenges
+**Thoughts:** I further used brillant.org, I continued with breaking down problems into subproblems and identifying the problem as a step-by-step breakdown to find a solution.
+
+### Day 19 June 7, 2025 100 Days here we go!
+**Today's Progress**: Solved Vaccuum Cleaner Route String Problem
+**Thoughts:** Engaged with Copilot to help breakdown the problem and finding the solution(s).
+
+### Day 20 June 8, 2025 100 Days here we go!
+**Today's Progress**: Python basics lessons begun
+**Thoughts:** Beginning to to shift my brain into the mindset of writing code that requires us to think critically, logically, and in a step-by-step manner. 
+
 
