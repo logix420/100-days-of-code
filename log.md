@@ -99,4 +99,7 @@ I will add to these self-taught coding files I am creating by challenging myself
 **Today's Progress**: Python basics lessons begun
 **Thoughts:** Beginning to to shift my brain into the mindset of writing code that requires us to think critically, logically, and in a step-by-step manner. 
 
+## Day 21 June 9, 2025 100 Days here we go!
+**Today's Progress**: Python basics projects
+**Thoughts:**  Just several programs to put into practice of the lessons 
 

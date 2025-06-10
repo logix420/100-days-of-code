@@ -60,3 +60,6 @@ String problem solving, breakdown to solution
 
 ## R1D18
 Lesson in Python basics
+
+## R1D19
+Projects in Python basics and further lessons
