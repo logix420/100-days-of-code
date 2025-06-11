@@ -103,3 +103,6 @@ I will add to these self-taught coding files I am creating by challenging myself
 **Today's Progress**: Python basics projects
 **Thoughts:**  Just several programs to put into practice of the lessons 
 
+## Day 22 June 10, 2025 100 Days here we go!
+**Today's Progress**: Python basics Control Flow
+**Thoughts:**  Began the understsnding of Control with if-statements and how these changes allow the floe of writing code to programs.
