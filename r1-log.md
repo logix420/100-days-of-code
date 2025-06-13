@@ -68,4 +68,7 @@ Projects in Python basics and further lessons
 Control flow
 
 ## R1D21
-Control flow continued 
+Control flow continued
+ 
+## R1D22
+Brilliant App and FreeCodeCamp App article 
