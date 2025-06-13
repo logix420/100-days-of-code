@@ -106,3 +106,12 @@ I will add to these self-taught coding files I am creating by challenging myself
 ## Day 22 June 10, 2025 100 Days here we go!
 **Today's Progress**: Python basics Control Flow
 **Thoughts:**  Began the understsnding of Control with if-statements and how these changes allow the floe of writing code to programs.
+
+## Day 23 June 11, 2025 100 Days here we go!
+**Today's Progress**: Python basics Control Flow Continued 
+**Thoughts:**  Picked up from if-statements to include loops into the control flow topic. 
+
+## Day 24 June 12, 2025 100 Days here we go!
+**Today's Progress**: Today spent the available time using the Brilliant App and began to read a FreeCodeCamp article about problem-solving skills and improving analytics. 
+**Thoughts:**  The Brilliant App is useful 
+for code problems that engage problem-solving and analytic of writing code. The article offers in-depth guidance on the skills of analytical problem-solving. Additionally, it contains a rock, paper, scissor game tutorial with 5 different code basis from recursion to object oriented programming. 
